@@ -5,7 +5,7 @@ Use three different ML classification metodologies to make the prediction
 ## Screenshots
 ![Alt Text](demo_ss.jpg)
 
-##Demo
+## Demo
 ![Alt Text](demo.gif)
 
 ## Instructions
