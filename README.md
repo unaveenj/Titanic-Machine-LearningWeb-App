@@ -1,6 +1,7 @@
 # Titanic Survival Predictor
 Use Machine Learning to predict survival on the Titanic dataset!
 Use three different ML classification metodologies to make the prediction
+Deplyed in Heroku : [Titanic Survival Predictor Web App Click here]( https://titanic-ml-app-2020.herokuapp.com/)
 ![Alt Text](titanic_bg.jpg)
 ## Screenshots
 ![Alt Text](demo_ss.jpg)
